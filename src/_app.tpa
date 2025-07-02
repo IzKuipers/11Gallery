@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "name": "11 Gallery",
+    "author": "Izaak Kuipers",
+    "version": "1.0.0",
+    "icon": "@local:icon.png"
+  },
+  "size": {
+    "w": 500,
+    "h": 650
+  },
+  "minSize": {
+    "w": 500,
+    "h": 650
+  },
+  "maxSize": {
+    "w": 700,
+    "h": 700
+  },
+  "position": {
+    "centered": true
+  },
+  "state": {
+    "maximized": false,
+    "minimized": false,
+    "resizable": true,
+    "headless": false,
+    "fullscreen": false
+  },
+  "controls": {
+    "minimize": true,
+    "maximize": true,
+    "close": true
+  },
+  "entrypoint": "main.js",
+  "glass": true,
+  "id": "IzK_11Gallery",
+  "hidden": false,
+  "core": false,
+  "tpaRevision": 1
+}

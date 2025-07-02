@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "11 Gallery",
+    "description": "Windows 11 wallpapers",
+    "author": "Izaak Kuipers",
+    "version": "1.0.1",
+    "installLocation": "U:/Applications/IzK_11Gallery",
+    "appId": "IzK_11Gallery",
+    "store": {
+      "banner": "Wallpapers/img26.jpg",
+      "image": "icon.png"
+    }
+  },
+  "outFile": "IzK_11Gallery.arc",
+  "payloadDir": "src",
+  "devPort": 3128,
+  "buildHash": "9efa6d1f",
+  "noHotRelaunch": false
+}
