@@ -2,8 +2,9 @@
   "metadata": {
     "name": "11 Gallery",
     "author": "Izaak Kuipers",
-    "version": "1.0.1",
-    "icon": "@local:icon.png"
+    "version": "1.0.3",
+    "icon": "@local:icon.png",
+    "appGroup": "utilities"
   },
   "size": {
     "w": 636,
